@@ -8,5 +8,5 @@
 import Foundation
 
 class MyModel {
-    
+    var model = "myModel"
 }
